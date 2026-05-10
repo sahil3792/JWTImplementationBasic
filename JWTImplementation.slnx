@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BusinessAccessLayer/BusinessAccessLayer.csproj" />
+  <Project Path="JWTImplementation/JWTImplementation.csproj" />
+  <Project Path="Model/Model.csproj" Id="03ae4302-f80d-4d06-b67e-fa25f7c568a5" />
+</Solution>
