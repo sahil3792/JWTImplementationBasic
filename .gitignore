@@ -4,3 +4,6 @@
 
 /.vs/JWTImplementation.slnx/FileContentIndex
 /.vs/JWTImplementation.slnx/v18
+/BusinessAccessLayer/obj
+/JWTImplementation/obj
+/Model/obj

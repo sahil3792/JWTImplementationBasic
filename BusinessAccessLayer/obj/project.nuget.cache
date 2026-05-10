@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0vmxWg512SM=",
+  "dgSpecHash": "M0x2v/6teUg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\JWTImplementation\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Projects\\JWTImplementation\\JWTImplementationBasic\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.7\\microsoft.aspnetcore.authentication.jwtbearer.10.0.7.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
@@ -21,9 +21,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference System.Security.Claims will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\JWTImplementation\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\Projects\\JWTImplementation\\JWTImplementationBasic\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\USER\\source\\repos\\JWTImplementation\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "filePath": "C:\\Users\\USER\\Documents\\Projects\\JWTImplementation\\JWTImplementationBasic\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "libraryId": "System.Security.Claims",
       "targetGraphs": [
         "net10.0"
